@@ -356,6 +356,9 @@ body, h2, p {
         align-items: center;
         padding-bottom: 0;
     }
+    .slides {
+        flex-direction: column;
+    }
 }
 
 
